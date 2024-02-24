@@ -1,0 +1,5 @@
+/.vscode
+/__pycache__
+/cosine_similarity_matrix.csv
+/venv
+/Books
